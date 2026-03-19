@@ -1,0 +1,4 @@
+metros = float(input("quantos metros?"))
+centimetros = metros*100
+milimetros = metros*1000
+print(f"{metros} e equivalente a {centimetros} centimetros e a {milimetros} milimetros,")
