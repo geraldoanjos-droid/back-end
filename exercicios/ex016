@@ -1,0 +1,6 @@
+km =_float(input('quantos KM foram percorridos?'))
+dias = int(input(' quantos dias voce ficou com o carro'))
+pKM = km*0.15
+pdias = dias*60
+total = pkm = pdias
+print('o valor total vai ser de R${}'.format(total))
